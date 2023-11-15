@@ -1,0 +1,8 @@
+E:\Programming\ForCikul\TablicaZaUmnojenie\bin\Debug\TablicaZaUmnojenie.exe.config
+E:\Programming\ForCikul\TablicaZaUmnojenie\bin\Debug\TablicaZaUmnojenie.exe
+E:\Programming\ForCikul\TablicaZaUmnojenie\bin\Debug\TablicaZaUmnojenie.pdb
+E:\Programming\ForCikul\TablicaZaUmnojenie\obj\Debug\TablicaZaUmnojenie.csproj.AssemblyReference.cache
+E:\Programming\ForCikul\TablicaZaUmnojenie\obj\Debug\TablicaZaUmnojenie.csproj.SuggestedBindingRedirects.cache
+E:\Programming\ForCikul\TablicaZaUmnojenie\obj\Debug\TablicaZaUmnojenie.csproj.CoreCompileInputs.cache
+E:\Programming\ForCikul\TablicaZaUmnojenie\obj\Debug\TablicaZaUmnojenie.exe
+E:\Programming\ForCikul\TablicaZaUmnojenie\obj\Debug\TablicaZaUmnojenie.pdb

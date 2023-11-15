@@ -1,0 +1,8 @@
+E:\Programming\ForCikul\SumiraneNaChisla\bin\Debug\SumiraneNaChisla.exe.config
+E:\Programming\ForCikul\SumiraneNaChisla\bin\Debug\SumiraneNaChisla.exe
+E:\Programming\ForCikul\SumiraneNaChisla\bin\Debug\SumiraneNaChisla.pdb
+E:\Programming\ForCikul\SumiraneNaChisla\obj\Debug\SumiraneNaChisla.csproj.AssemblyReference.cache
+E:\Programming\ForCikul\SumiraneNaChisla\obj\Debug\SumiraneNaChisla.csproj.SuggestedBindingRedirects.cache
+E:\Programming\ForCikul\SumiraneNaChisla\obj\Debug\SumiraneNaChisla.csproj.CoreCompileInputs.cache
+E:\Programming\ForCikul\SumiraneNaChisla\obj\Debug\SumiraneNaChisla.exe
+E:\Programming\ForCikul\SumiraneNaChisla\obj\Debug\SumiraneNaChisla.pdb
